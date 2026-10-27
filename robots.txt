@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://full-of-wonders.github.io/sitemap.xml
+Sitemap: https://fullofwonders.com.tw/sitemap.xml
