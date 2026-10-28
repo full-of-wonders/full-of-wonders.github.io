@@ -11,21 +11,21 @@
   "materialImage": "",
   "projects": [
     {
-      "title": "新作品",
-      "category": "住宅空間",
+      "title": "作品",
+      "category": "商業空間-臺北市中正區店面",
       "description": "",
       "image": "/images/1793187854446-fxh52u.png"
     },
     {
-      "title": "新作品",
+      "title": "作品",
       "category": "商業空間",
-      "description": "",
+      "description": "商業空間-新北市汐止區店面",
       "image": "/images/1793188782341-hncmso.png"
     },
     {
-      "title": "新作品",
-      "category": "住宅空間",
-      "description": "",
+      "title": "作品",
+      "category": "商業空間",
+      "description": "商業空間-新北市汐止區店面",
       "image": "/images/1793188911157-4comim.png"
     }
   ],
