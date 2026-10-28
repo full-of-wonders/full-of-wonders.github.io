@@ -9,5 +9,45 @@
   "logo": "/images/1793170091388-7sdona.png",
   "heroImage": "",
   "materialImage": "",
-  "projects": []
+  "projects": [],
+  "services": [
+    {
+      "title": "住宅空間",
+      "en": "HOME INTERIOR"
+    },
+    {
+      "title": "商業空間",
+      "en": "COMMERCIAL"
+    },
+    {
+      "title": "舊屋翻新",
+      "en": "RENOVATION"
+    },
+    {
+      "title": "空間規劃",
+      "en": "SPACE PLANNING"
+    },
+    {
+      "title": "施工整合",
+      "en": "COORDINATION"
+    },
+    {
+      "title": "軟裝配置",
+      "en": "STYLING"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "如何開始諮詢裝修需求？",
+      "answer": "歡迎透過電話或 Email 聯繫，簡單描述空間類型、需求及預計時程。"
+    },
+    {
+      "question": "可以先討論空間規劃方向嗎？",
+      "answer": "可以，歡迎先提供現場照片、平面圖或你的想法，方便我們了解需求。"
+    },
+    {
+      "question": "服務範圍與施工時程如何確認？",
+      "answer": "依案件地點、內容與現場條件評估，請先與我們聯繫確認。"
+    }
+  ]
 }
